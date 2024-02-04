@@ -57,6 +57,9 @@ To set up the Skin Disease Diagnosis Model on your local machine, follow these s
 
 - I welcome contributions from the community. If you want to contribute please follow our contribution guidelines.
 
+
 ## Acknowledgments 👮
 
-- Thanks to ISIC for providing the Training and Testing Data.
+- This project was single-handedly developed by me, demonstrating my skills in deep learning, image processing, and software development. I'd like to express my gratitude to the International Skin Imaging Collaboration (ISIC) for providing the dataset that made
+  this project possible.
+
